@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spiderhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//pg.jar",
   "sites": [
     {
       "key": "DB",
@@ -9,7 +9,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/douban.json"
     },
     {
       "key": "Local",
@@ -24,7 +24,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/tokenm.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json"
     },
     {"key":"PikPakShare","name":"📺PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
 			"style": {
@@ -37,44 +37,44 @@
       "name": "🪂玩偶┃哥哥🪂",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./jar/fan.txt",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "玩偶哥哥XM",
       "name": "玩偶┃XM",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./jar/fan.txt",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶┃GG",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/custom_spider.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/custom_spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/xyq/玩偶哥哥.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/xyq/玩偶哥哥.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
       "name": "玩偶┃MM",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/custom_spider.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/custom_spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/xyq/玩偶妹妹.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/xyq/玩偶妹妹.json"
     },
        {
       "key": "Wogg",
@@ -85,18 +85,18 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/wogg.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/wogg.json"
     },
     {
       "key": "️玩偶哥",
       "name": "玩偶┃OG",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/og.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/og/wog.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/og/wog.json"
     },
     {"key":"yydsys","name":"玩偶┃LG","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},
     {
@@ -104,22 +104,22 @@
       "name": "玩偶┃KX",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/ttkx.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/ttkx/玩偶哥哥.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/ttkx/玩偶哥哥.json"
     },
     {
       "key": "玩我哥哥KX",
       "name": "🚍玩我┃哥哥🚍",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/ttkx.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/ttkx/玩我哥哥.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/ttkx/玩我哥哥.json"
     }, 
     {
       "key": "Wobg",
@@ -130,18 +130,18 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/wogg.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/wogg.json"
     },
     {
       "key": "wogg_HCCX",
       "name": "玩偶┃HC",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/HeChengChaXiu.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/hccx/玩偶哥哥.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/hccx/玩偶哥哥.json"
     },
     {"key":"影视车","name":"玩偶┃YS","type":3,"api":"csp_Yingshiche","jar":"./jar/spider.jar","searchable":1,"filterable":1,"changeable":0,"playerType":2,"timeout":25,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TV/quark.txt"}},  
     {"key":"PushShare","name":"阿狸┃WD","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
@@ -159,7 +159,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$null$$$1"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$null$$$1"
       }, 
       {
             "key": "Wodoudou",
@@ -170,7 +170,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./lib/wogg.json"
+            "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$./lib/wogg.json"
       },
       {"key":"运输车","name":"阿狸┃SC","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.link$$$null$$$1$$$./lib/wogg.json"},  
      {
@@ -178,44 +178,44 @@
       "name": "阿狸┃OU",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/og.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/og/wou.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/og/wou.json"
     },
     {
       "key": "️玩偶弟",
       "name": "阿狸┃OD",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/og.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/og/wod.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/og/wod.json"
     },
     {
       "key": "️玩偶姐",
       "name": "阿狸┃OJ",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/og.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/og/woj.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/og/woj.json"
     },
     {
       "key": "️玩偶妹",
       "name": "阿狸┃OM",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/og.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/og/wom.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/og/wom.json"
     },
     {
       "key": "Ppxzy",
@@ -226,7 +226,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
     },
     {
       "key": "校长影视",
@@ -237,7 +237,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
     {"key":"团长资源","name":"夸克┃TZ","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$1"},
     {"key":"美剧迷","name":"夸克┃MJ","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
@@ -249,7 +249,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "4KHDR",
@@ -260,7 +260,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$./lib/4khdr.txt$$$1"
     },
     {
       "key": "Xunlei8",
@@ -295,7 +295,7 @@
       "name": "磁力┃ZJ",
       "type": 3,
       "api": "csp_Wexbtbbt",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -308,7 +308,7 @@
       "name": "磁力┃TO",
       "type": 3,
       "api": "csp_WexTwobt",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 0
     },  
@@ -317,7 +317,7 @@
       "name": "蓝光┃XD",
       "type": 3,
       "api": "csp_Wexxiongdiys",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -326,7 +326,7 @@
       "name": "蓝光┃NG",
       "type": 3,
       "api": "csp_WexNgys",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -335,7 +335,7 @@
       "name": "蓝光┃KB",
       "type": 3,
       "api": "csp_Wexkukantv",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -344,7 +344,7 @@
       "name": "蓝光┃SJ",
       "type": 3,
       "api": "csp_WexShijuedy",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -353,7 +353,7 @@
       "name": "蓝光┃NM",
       "type": 3,
       "api": "csp_WexNmys",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -362,7 +362,7 @@
       "name": "蓝光┃BP",
       "type": 3,
       "api": "csp_Wexbaipiao",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -371,7 +371,7 @@
       "name": "蓝光┃DD",
       "type": 3,
       "api": "csp_WexDiduanys",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -380,7 +380,7 @@
       "name": "蓝光┃CX",
       "type": 3,
       "api": "csp_WexF4kvm",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -389,7 +389,7 @@
       "name": "蓝光┃BX",
       "type": 3,
       "api": "csp_Wexbttwo",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -398,7 +398,7 @@
       "name": "蓝光┃JP",
       "type": 3,
       "api": "csp_WexJianpian",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -415,11 +415,11 @@
       "name": "蓝光┃KX",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/ttkx.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/ttkx/开心影视.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/ttkx/开心影视.json"
     },
     {
       "key": "YQKan",
@@ -514,13 +514,13 @@
       "name": "分享┃ZX",
       "type": 3,
       "api": "csp_阿里云集合",
-      "jar": "./jar/zx.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/zx.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "./lib/阿里集合.json;./lib/tokenm.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/阿里集合.json;./lib/tokenm.json"
     },
      {"key":"Xpanpan","name":"分享┃XP","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1",
 			"style": {
@@ -563,7 +563,7 @@
       "name": "🌸短剧屋",
       "type": 3,
       "api": "csp_Wexvipduanju",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -580,22 +580,22 @@
       "name": "易搜┃🍭",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "./jar/fan.txt",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "PanSou",
       "name": "盘搜┃🍭",
       "type": 3,
       "api": "csp_PanSou",
-      "jar": "./jar/fan.txt",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {"key":"YunSo","name":"云搜┃🍭","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
 			"style": {
@@ -613,7 +613,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json"
     },
     {"key":"秒搜","name":"秒搜┃🍭","type":3,"api":"csp_MiaoSou","timeout":60, "ext":"./lib/tokenm.json",
 			"style": {
@@ -630,7 +630,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json"
     },
    {
       "key": "Dovx",
@@ -641,7 +641,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json"
     },
     {
       "key": "Gitcafe",
@@ -652,14 +652,14 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json"
     },
     {
       "key": "找資源",
       "name": "資源┃🍭",
       "type": 3,
       "api": "csp_Zhaozy",
-      "jar": "./jar/wex.jar",
+      "jarhttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//jar/wex.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
@@ -679,7 +679,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
+      "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$https://dapanso.com$$$null"
     },
     {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json",
 			"style": {
@@ -727,7 +727,7 @@
     "searchable": 1,
     "changeable": 1,
     "timeout": 60,
-    "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+    "exthttps://github.moeyy.xyz/https://raw.githubusercontent.com/shangyunvip/fans/main//lib/tokenm.json$$$null$$$null$$$1"
     },
  {
       "key": "BtSearch",
